@@ -36,3 +36,18 @@ body{
 .navbar-dark {
      background-color: #512DA8;
 }
+
+input[type="radio"] {
+    margin-left: 10px;
+  }
+
+  .bg-primary {
+    background-color: #ffc107!important;
+}
+
+.cardheader {
+    padding: 10px;
+}
+#reservebtn{
+    padding: 10px 50px 10px 50px;    
+}
