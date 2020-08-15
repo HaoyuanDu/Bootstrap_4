@@ -48,9 +48,6 @@ input[type="radio"] {
 .cardheader {
     padding: 10px;
 }
-#reservebtn{
-    padding: 10px 50px 10px 50px;    
-}
 
 .tab-content {
     border-left: 1px solid #ddd;
